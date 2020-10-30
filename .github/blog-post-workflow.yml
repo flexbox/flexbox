@@ -1,14 +1,19 @@
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs - on: ubuntu - latest
-        steps: 
-            - uses: actions / checkout@v2
-            - uses: gautamkrishnar / blog - post - workflow@master
-              with: 
-                max_post_count: "4",
-                feed_list: "https://medium.com/feed/@flexbox"
+name: Update blog posts
+on:
+  push:
+    branches: ['master']
+  workflow_dispatch:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: MEDIUM
+          feed_list: 'https://medium.com/@flexbox'
