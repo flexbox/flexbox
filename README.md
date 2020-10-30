@@ -25,7 +25,7 @@
 </a>
 
 <p></p>
-<hr />
+<hr align="left" />
 
 - 🔭 I’m working on **cross-platform mobile applications with React Native.** <a href="https://twitter.com/flexbox_" target="_blank">Follow me on Twitter!</a>
 - 🌱 I’m currently learning **TensorFlow.js, GraphQL** and <a href="https://twitter.com/flexbox_" target="_blank">**freelancing**</a>
