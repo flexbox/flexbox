@@ -24,7 +24,8 @@
   <img align="left" alt="David Leuliette | Instagram" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<hr style="clear: left" />
+<p></p>
+<hr />
 
 - 🔭 I’m working on **cross-platform mobile applications with React Native.** <a href="https://twitter.com/flexbox_" target="_blank">Follow me on Twitter!</a>
 - 🌱 I’m currently learning **TensorFlow.js, GraphQL** and <a href="https://twitter.com/flexbox_" target="_blank">**freelancing**</a>
