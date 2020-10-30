@@ -2,26 +2,26 @@
 
 ### Freelance front-end developer and automation nerd
 
-<p align="left">
+<a href="https://github.com/flexbox" align="left">
   <img src="https://komarev.com/ghpvc/?username=flexbox" alt="flexbox" />
 </p>
 <a href="https://twitter.com/flexbox_" align="left">
-  <img alt="David Leuliette | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img alt="David Leuliette | Twitter" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://dev.to/flexbox" align="left">
-  <img alt="David Leuliette | DEV TO" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+  <img alt="David Leuliette | DEV TO" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
 <a href="https://medium.com/@flexbox" align="left">
-  <img alt="David Leuliette | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img alt="David Leuliette | Medium" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://www.producthunt.com/@flexbox" align="left">
-  <img alt="David Leuliette | Product Hunt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/producthunt.svg" />
+  <img alt="David Leuliette | Product Hunt" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/producthunt.svg" />
 </a>
 <a href="https://www.linkedin.com/in/david-leuliette/" align="left">
-  <img alt="David Leuliette | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="David Leuliette | LinkdeIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://instagram.com/chti.yala/" align="left">
-  <img alt="David Leuliette | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img alt="David Leuliette | Instagram" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <hr style="clear: left" />
