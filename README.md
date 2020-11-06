@@ -40,8 +40,8 @@
 
 ### Most Recent Blogs posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 ### Tools I use
 
