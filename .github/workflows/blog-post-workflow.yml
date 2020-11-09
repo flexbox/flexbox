@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@1.4.0
         with:
-          comment_tag_name: MEDIUM
-          feed_list: 'https://medium.com/@flexbox'
+          comment_tag_name: "MEDIUM"
+          commit_message: "Updated README with the latest MEDIUM blog post"
+          feed_list: 'https://medium.com/feed/@flexbox'
