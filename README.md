@@ -42,10 +42,10 @@
 
 <!-- MEDIUM:START -->
 - [How I wrote and published The Road to React Native book](https://medium.com/@flexbox/how-i-wrote-and-published-the-road-to-react-native-book-7ca80fa2fd88?source=rss-cc5b33b54088------2)
-- [Triste mais vrai. 2 vélos volés en 1 semaine. L’un en centre ville, l’autre dans ma résidence.](https://medium.com/@flexbox/triste-mais-vrai-2-v%C3%A9los-vol%C3%A9s-en-1-semaine-lun-en-centre-ville-l-autre-dans-ma-r%C3%A9sidence-69d26889a534?source=rss-cc5b33b54088------2)
 - [My Growth Hack Checklist for Spotify](https://medium.com/@flexbox/how-i-got-more-than-4000-followers-on-spotify-ae4bcb6d6e73?source=rss-cc5b33b54088------2)
 - [How to build DIY ergonomic desk for less than 99€](https://medium.com/@flexbox/how-to-build-diy-ergonomic-desk-for-less-than-99-82fa51a0d98e?source=rss-cc5b33b54088------2)
 - [What I learned at React Finland Workshop with Nik Graf](https://medium.com/react-finland/what-i-learned-at-react-finland-workshop-with-nik-graf-99c37dc1d8c1?source=rss-cc5b33b54088------2)
+- [Clean up macos for a productive setup following Marie Kondo advices](https://blog.usejournal.com/kondo-your-mac-b2443f2ebc2f?source=rss-cc5b33b54088------2)
 <!-- MEDIUM:END -->
 
 ### Tools I use
