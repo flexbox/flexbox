@@ -29,12 +29,11 @@
 
 <hr />
 
-- 🔭 I’m working on **cross-platform mobile applications with React Native.** <a href="https://twitter.com/flexbox_" target="_blank">Follow me on Twitter!</a>
-- 🌱 I’m currently learning **TensorFlow.js, GraphQL** and <a href="https://twitter.com/flexbox_" target="_blank">**freelancing**</a>
-- 👨‍💻 All of my public speaking is available at [my talks page](https://github.com/flexbox/talks)
-- 👯 I’m looking to collaborate on a potential podcast
-- 💬 Ask me about **React, React Native,** and **Automation**
-- 📫 You can reach me <a href="https://davidl.fr/onboarding" target="_blank">**on my onboarding page**</a>
+- 🔭 I’m working on **cross-platform applications with React Native**.
+- 🌱 I’m currently learning **TypeScript**, **GraphQL** and **TensorFlow.js**.
+- 👨‍💻 All of my public speaking is available at [my talks page](https://davidl.fr/talks).
+- 👯 I’m looking to collaborate on a potential podcast.
+- 💬 Ask me about **React, React Native,** and **Automation** <a href="https://twitter.com/flexbox_" target="_blank"> on Twitter!</a>
 
 <hr />
 
@@ -72,7 +71,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/>
 </p>
 
-<p>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="https://twitter.com/flexbox_" target="_blank">contact me</a> if you want to know more about my skills.</p>
+<p>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="https://davidl.fr/onboading" target="_blank">contact me</a> if you want to know more about my skills.</p>
 
 <a href="https://github.com/flexbox">
   <img src="https://github-readme-stats.vercel.app/api?username=flexbox&show_icons=true&theme=buefy" alt="flexbox" />
