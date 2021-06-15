@@ -1,4 +1,4 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm flexbox, freelance front-end developer and automation nerd
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm freelance front-end developer and automation nerd
 
 <a href="https://github.com/flexbox">
   <img align="left" src="https://komarev.com/ghpvc/?username=flexbox" alt="flexbox" />
