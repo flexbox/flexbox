@@ -1,30 +1,5 @@
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm glad to see you!
 
-<a href="https://github.com/flexbox">
-  <img align="left" src="https://komarev.com/ghpvc/?username=flexbox" alt="flexbox" />
-</p>
-<a href="https://twitter.com/flexbox_">
-  <img align="left" alt="David Leuliette | Twitter" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://dev.to/flexbox">
-  <img align="left" alt="David Leuliette | DEV TO" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a href="https://medium.com/@flexbox">
-  <img align="left" alt="David Leuliette | Medium" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.linkedin.com/in/david-leuliette">
-  <img align="left" alt="David Leuliette | LinkdeIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.producthunt.com/@flexbox">
-  <img align="left" alt="David Leuliette | Product Hunt" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/producthunt.svg" />
-</a>
-<a href="https://www.figma.com/@flexbox">
-  <img align="left" alt="David Leuliette | Figma" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />
-</a>
-<a href="https://instagram.com/chti.yala">
-  <img alt="David Leuliette | Instagram" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
 <hr />
 
 - 🔭 I’m working on **cross-platform applications with React Native**.
@@ -44,6 +19,8 @@
 - [What I learned at React Finland Workshop with Nik Graf](https://medium.com/react-finland/what-i-learned-at-react-finland-workshop-with-nik-graf-99c37dc1d8c1?source=rss-cc5b33b54088------2)
 - [Clean up macos for a productive setup following Marie Kondo advices](https://blog.usejournal.com/kondo-your-mac-b2443f2ebc2f?source=rss-cc5b33b54088------2)
 <!-- MEDIUM:END -->
+
+<hr />
 
 ### Tools I use
 
@@ -75,3 +52,31 @@
   <img src="https://github-readme-stats.vercel.app/api?username=flexbox&show_icons=true&theme=buefy" alt="flexbox" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexbox&layout=compact&hide=html&theme=buefy" alt="flexbox" />
 </a>
+
+<hr />
+
+<a href="https://github.com/flexbox">
+  <img align="left" src="https://komarev.com/ghpvc/?username=flexbox" alt="flexbox" />
+</p>
+<a href="https://twitter.com/flexbox_">
+  <img align="left" alt="David Leuliette | Twitter" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://dev.to/flexbox">
+  <img align="left" alt="David Leuliette | DEV TO" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+</a>
+<a href="https://medium.com/@flexbox">
+  <img align="left" alt="David Leuliette | Medium" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://www.linkedin.com/in/david-leuliette">
+  <img align="left" alt="David Leuliette | LinkdeIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.producthunt.com/@flexbox">
+  <img align="left" alt="David Leuliette | Product Hunt" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/producthunt.svg" />
+</a>
+<a href="https://www.figma.com/@flexbox">
+  <img align="left" alt="David Leuliette | Figma" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />
+</a>
+<a href="https://instagram.com/chti.yala">
+  <img alt="David Leuliette | Instagram" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
