@@ -3,8 +3,7 @@
 - 🔭 I’m working on **cross-platform applications with React Native**.
 - 🌱 I’m currently learning **TypeScript**, **GraphQL** and **TensorFlow.js**.
 - 👨‍💻 All of my public speaking is available at [my talks page](https://davidl.fr/talks).
-- 👯 I’m looking to collaborate on a potential podcast.
-- 💬 Ask me about **React, React Native,** and **Automation** <a href="https://twitter.com/flexbox_" target="_blank"> on Twitter!</a>
+- 💬 Ask me about **React, React Native,** and **Automation Hacks** <a href="https://twitter.com/flexbox_" target="_blank"> on Twitter!</a>
 
 <hr />
 
