@@ -1,9 +1,9 @@
-# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm glad to see you!
+# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm glad to see you
 
 - 🔭 I’m working on **cross-platform applications with React Native**.
 - 🌱 I’m currently learning **TypeScript**, **GraphQL** and **TensorFlow.js**.
 - 👨‍💻 All of my public speaking is available at [my talks page](https://davidl.fr/talks).
-- 💬 Ask me about **React, React Native,** and **Automation Hacks** <a href="https://twitter.com/flexbox_" target="_blank"> on Twitter!</a>
+- 💬 Ask me about **React, React Native,** and **Automation Hacks** <a href="https://twitter.com/intent/follow?screen_name=flexbox_" target="_blank"> on Twitter!</a>
 
 <hr />
 
@@ -57,7 +57,7 @@
 <a href="https://github.com/flexbox">
   <img align="left" src="https://komarev.com/ghpvc/?username=flexbox" alt="flexbox" />
 </p>
-<a href="https://twitter.com/flexbox_">
+<a href="https://twitter.com/intent/follow?screen_name=flexbox_">
   <img align="left" alt="David Leuliette | Twitter" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://dev.to/flexbox">
@@ -78,4 +78,3 @@
 <a href="https://instagram.com/chti.yala">
   <img alt="David Leuliette | Instagram" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
