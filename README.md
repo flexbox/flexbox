@@ -1,4 +1,4 @@
-# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm glad to see you
+# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px>, I'm glad to see you
 
 - 🔭 I’m working on **cross-platform applications with React Native**.
 - 🌱 I’m currently learning **TypeScript**, **GraphQL** and **TensorFlow.js**.
