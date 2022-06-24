@@ -60,9 +60,6 @@
 <a href="https://twitter.com/intent/follow?screen_name=flexbox_">
   <img align="left" alt="David Leuliette | Twitter" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://dev.to/flexbox">
-  <img align="left" alt="David Leuliette | DEV TO" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
 <a href="https://medium.com/@flexbox">
   <img align="left" alt="David Leuliette | Medium" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
@@ -74,7 +71,4 @@
 </a>
 <a href="https://www.figma.com/@flexbox">
   <img align="left" alt="David Leuliette | Figma" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />
-</a>
-<a href="https://instagram.com/chti.yala">
-  <img alt="David Leuliette | Instagram" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
