@@ -1,7 +1,3 @@
-<a href="https://github.com/flexbox">
-  <img align="left" src="https://komarev.com/ghpvc/?username=flexbox" alt="flexbox" />
-</a>
-
 - 🔭 I’m working on **cross-platform applications with React Native**.
 - 🌱 I’m currently learning **TypeScript**, **GraphQL** and **TensorFlow.js**.
 - 👨‍💻 All of my public speaking is available at [my talks page](https://davidl.fr/talks).
@@ -55,3 +51,7 @@
 - Add <a href="https://www.linkedin.com/in/david-leuliette">David Leuliette</a> on LinkedIn
 - Follow <a href="https://www.producthunt.com/@flexbox">@flexbox</a> on Product Hunt
 - Follow <a href="https://www.figma.com/@flexbox">@flexbox</a> on Figma
+
+<a href="https://github.com/flexbox">
+  <img align="left" src="https://komarev.com/ghpvc/?username=flexbox" alt="flexbox" />
+</a>
