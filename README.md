@@ -1,6 +1,6 @@
 <a href="https://github.com/flexbox">
   <img align="left" src="https://komarev.com/ghpvc/?username=flexbox" alt="flexbox" />
-</p>
+</a>
 
 - 🔭 I’m working on **cross-platform applications with React Native**.
 - 🌱 I’m currently learning **TypeScript**, **GraphQL** and **TensorFlow.js**.
