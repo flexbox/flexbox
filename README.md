@@ -46,11 +46,11 @@
 
 ## Follow me
 
-- Follow <a href="https://twitter.com/intent/follow?screen_name=flexbox_">@flexbox_</a> on Twitter
-- Follow <a href="https://medium.com/@flexbox">@flexbox</a> on Medium
-- Add <a href="https://www.linkedin.com/in/david-leuliette">David Leuliette</a> on LinkedIn
-- Follow <a href="https://www.producthunt.com/@flexbox">@flexbox</a> on Product Hunt
-- Follow <a href="https://www.figma.com/@flexbox">@flexbox</a> on Figma
+- Follow **<a href="https://twitter.com/intent/follow?screen_name=flexbox_">@flexbox_</a> on Twitter**
+- Follow **<a href="https://medium.com/@flexbox">@flexbox</a> on Medium**
+- Add **<a href="https://www.linkedin.com/in/david-leuliette">David Leuliette</a> on LinkedIn**
+- Follow **<a href="https://www.producthunt.com/@flexbox">@flexbox</a> on Product Hunt**
+- Follow **<a href="https://www.figma.com/@flexbox">@flexbox</a> on Figma**
 
 <a href="https://github.com/flexbox">
   <img align="left" src="https://komarev.com/ghpvc/?username=flexbox" alt="flexbox" />
