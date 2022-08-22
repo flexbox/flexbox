@@ -44,14 +44,17 @@
 <em>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients.</em>
 <em>Feel free to <a href="https://davidl.fr/onboading" target="_blank">contact me</a> if you want to know more about my skills.</em>
 
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=flexbox&show_icons=true&theme=buefy" alt="flexbox" width="50%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexbox&layout=compact&hide=html&theme=buefy" alt="flexbox" width="50%" />
 
 ## Follow me
 
-Follow <a href="https://twitter.com/intent/follow?screen_name=flexbox_">@flexbox_</a> on Twitter
-Follow <a href="https://medium.com/@flexbox">@flexbox</a> on Medium
-Add <a href="https://www.linkedin.com/in/david-leuliette">David Leuliette</a> on LinkedIn
-Follow <a href="https://www.producthunt.com/@flexbox">@flexbox</a> on Product Hunt
-Follow <a href="https://www.figma.com/@flexbox">@flexbox</a> on Figma
+- Follow <a href="https://twitter.com/intent/follow?screen_name=flexbox_">@flexbox_</a> on Twitter
+- Follow <a href="https://medium.com/@flexbox">@flexbox</a> on Medium
+- Add <a href="https://www.linkedin.com/in/david-leuliette">David Leuliette</a> on LinkedIn
+- Follow <a href="https://www.producthunt.com/@flexbox">@flexbox</a> on Product Hunt
+- Follow <a href="https://www.figma.com/@flexbox">@flexbox</a> on Figma
