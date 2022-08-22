@@ -48,21 +48,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=flexbox&show_icons=true&theme=buefy" alt="flexbox" width="50%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexbox&layout=compact&hide=html&theme=buefy" alt="flexbox" width="50%" />
 
-
 ### Follow me
 
-<a href="https://twitter.com/intent/follow?screen_name=flexbox_">
-  <img align="left" alt="David Leuliette | Twitter" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://medium.com/@flexbox">
-  <img align="left" alt="David Leuliette | Medium" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.linkedin.com/in/david-leuliette">
-  <img align="left" alt="David Leuliette | LinkdeIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.producthunt.com/@flexbox">
-  <img align="left" alt="David Leuliette | Product Hunt" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/producthunt.svg" />
-</a>
-<a href="https://www.figma.com/@flexbox">
-  <img align="left" alt="David Leuliette | Figma" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />
-</a>
+- Follow <a href="https://twitter.com/intent/follow?screen_name=flexbox_">@flexbox_</a> on Twitter
+- Follow <a href="https://medium.com/@flexbox">@flexbox</a> on Medium
+- Add <a href="https://www.linkedin.com/in/david-leuliette">David Leuliette</a> on LinkedIn
+- Follow <a href="https://www.producthunt.com/@flexbox">@flexbox</a> on Product Hunt
+- Follow <a href="https://www.figma.com/@flexbox">@flexbox</a> on Figma
