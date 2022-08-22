@@ -7,7 +7,7 @@
 - 👨‍💻 All of my public speaking is available at [my talks page](https://davidl.fr/talks).
 - 💬 AMA about <a href="https://twitter.com/intent/follow?screen_name=flexbox_" target="_blank">**React, React Native,** and **Life Automation Hacks**</a>.
 
-### Most Recent Blog Posts
+## Most Recent Blog Posts
 
 <!-- MEDIUM:START -->
 - [How I wrote and published The Road to React Native book](https://flexbox.medium.com/how-i-wrote-and-published-the-road-to-react-native-book-7ca80fa2fd88?source=rss-cc5b33b54088------2)
@@ -17,7 +17,7 @@
 - [Clean up macos for a productive setup following Marie Kondo advices](https://blog.usejournal.com/kondo-your-mac-b2443f2ebc2f?source=rss-cc5b33b54088------2)
 <!-- MEDIUM:END -->
 
-### Tools I use
+## Tools I use
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="git" width="32" height="32"/>
@@ -48,10 +48,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=flexbox&show_icons=true&theme=buefy" alt="flexbox" width="50%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexbox&layout=compact&hide=html&theme=buefy" alt="flexbox" width="50%" />
 
-### Follow me
+## Follow me
 
-- Follow <a href="https://twitter.com/intent/follow?screen_name=flexbox_">@flexbox_</a> on Twitter
-- Follow <a href="https://medium.com/@flexbox">@flexbox</a> on Medium
-- Add <a href="https://www.linkedin.com/in/david-leuliette">David Leuliette</a> on LinkedIn
-- Follow <a href="https://www.producthunt.com/@flexbox">@flexbox</a> on Product Hunt
-- Follow <a href="https://www.figma.com/@flexbox">@flexbox</a> on Figma
+Follow <a href="https://twitter.com/intent/follow?screen_name=flexbox_">@flexbox_</a> on Twitter
+Follow <a href="https://medium.com/@flexbox">@flexbox</a> on Medium
+Add <a href="https://www.linkedin.com/in/david-leuliette">David Leuliette</a> on LinkedIn
+Follow <a href="https://www.producthunt.com/@flexbox">@flexbox</a> on Product Hunt
+Follow <a href="https://www.figma.com/@flexbox">@flexbox</a> on Figma
