@@ -1,8 +1,6 @@
-<p>
 <a href="https://github.com/flexbox">
   <img align="left" src="https://komarev.com/ghpvc/?username=flexbox" alt="flexbox" />
 </a>
-</p>
 
 - 🔭 I’m working on **cross-platform applications with React Native**.
 - 🌱 I’m currently learning **TypeScript**, **GraphQL** and **TensorFlow.js**.
@@ -43,12 +41,11 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/>
 </p>
 
-<em>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="https://davidl.fr/onboading" target="_blank">contact me</a> if you want to know more about my skills.</em>
+<em>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients.</em>
+<em>Feel free to <a href="https://davidl.fr/onboading" target="_blank">contact me</a> if you want to know more about my skills.</em>
 
-<a href="https://github.com/flexbox">
-  <img src="https://github-readme-stats.vercel.app/api?username=flexbox&show_icons=true&theme=buefy" alt="flexbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexbox&layout=compact&hide=html&theme=buefy" alt="flexbox" />
-</a>
+
+| <img src="https://github-readme-stats.vercel.app/api?username=flexbox&show_icons=true&theme=buefy" alt="flexbox" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexbox&layout=compact&hide=html&theme=buefy" alt="flexbox" /> |
 
 
 ### Follow me
