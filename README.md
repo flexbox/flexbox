@@ -1,4 +1,4 @@
-- 🔭 I’m working on **cross-platform applications with React Native**.
+- 🔭 I’m working on **universal native apps for Android, iOS, and the web** with React Native, Expo, and Next.js.
 - 🌱 I’m currently learning **TypeScript**, **GraphQL** and **TensorFlow.js**.
 - 👨‍💻 All of my public speaking is available at [my talks page](https://davidl.fr/talks).
 - 💬 AMA about <a href="https://twitter.com/intent/follow?screen_name=flexbox_" target="_blank">**React, React Native,** and **Life Automation Hacks**</a>.
@@ -44,7 +44,7 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=flexbox&show_icons=true&theme=buefy" alt="flexbox" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexbox&layout=compact&hide=html&theme=buefy" alt="flexbox" /> |
 | ------------- | ------------- |
 
-## Follow me
+## Follow Me
 
 - Follow **<a href="https://twitter.com/intent/follow?screen_name=flexbox_">@flexbox_</a> on Twitter**
 - Follow **<a href="https://medium.com/@flexbox">@flexbox</a> on Medium**
