@@ -13,6 +13,11 @@
 - [Clean up macos for a productive setup following Marie Kondo advices](https://blog.usejournal.com/kondo-your-mac-b2443f2ebc2f?source=rss-cc5b33b54088------2)
 <!-- MEDIUM:END -->
 
+## Most Recent Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 ## Tools I use
 
 <p align="left">
