@@ -16,7 +16,12 @@
 ## Most Recent Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![À la découverte d'AWS Amplify avec React Native](https://ytcards.demolab.com/?id=8cpUdbgpKq8&title=%C3%80+la+d%C3%A9couverte+d%27AWS+Amplify+avec+React+Native&lang=en&timestamp=1689087605&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "À la découverte d'AWS Amplify avec React Native")](https://www.youtube.com/watch?v=8cpUdbgpKq8)
+[![Bref. Je suis allé à Chain React.](https://ytcards.demolab.com/?id=QVqYGXxLuH4&title=Bref.+Je+suis+all%C3%A9+%C3%A0+Chain+React.&lang=en&timestamp=1685971816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "Bref. Je suis allé à Chain React.")](https://www.youtube.com/watch?v=QVqYGXxLuH4)
+[![App.js Conf 2023 - UNOFFICIAL AFTERMOVIE](https://ytcards.demolab.com/?id=0LZP5aN-cpM&title=App.js+Conf+2023+-+UNOFFICIAL+AFTERMOVIE&lang=en&timestamp=1684846801&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "App.js Conf 2023 - UNOFFICIAL AFTERMOVIE")](https://www.youtube.com/watch?v=0LZP5aN-cpM)
+[![React Native Storybook 5 to 6 migration](https://ytcards.demolab.com/?id=QgYPgDxJRkU&title=React+Native+Storybook+5+to+6+migration&lang=en&timestamp=1681196415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "React Native Storybook 5 to 6 migration")](https://www.youtube.com/watch?v=QgYPgDxJRkU)
+[![L'importance du readme 🚩 #shorts](https://ytcards.demolab.com/?id=TsJ9LZH7Obs&title=L%27importance+du+readme+%F0%9F%9A%A9+%23shorts&lang=en&timestamp=1679054431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "L'importance du readme 🚩 #shorts")](https://www.youtube.com/watch?v=TsJ9LZH7Obs)
+[![Utiliser Prettier pour rendre son code lisible 👁️ #shorts](https://ytcards.demolab.com/?id=1MEa1P_MclE&title=Utiliser+Prettier+pour+rendre+son+code+lisible+%F0%9F%91%81%EF%B8%8F+%23shorts&lang=en&timestamp=1678968002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "Utiliser Prettier pour rendre son code lisible 👁️ #shorts")](https://www.youtube.com/watch?v=1MEa1P_MclE)
 <!-- END YOUTUBE-CARDS -->
 
 ## Tools I use
