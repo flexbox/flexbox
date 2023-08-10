@@ -1,7 +1,6 @@
-- 🔭 I’m working on **universal native apps for Android, iOS, and the web** with React Native, Expo, and Next.js.
+- 🔭 I’m working on **universal native apps for Android, iOS, and the web** with **React Native**, **Expo**, and **Next.js**.
 - 🌱 I’m currently learning **TypeScript**, **GraphQL** and **TensorFlow.js**.
 - 👨‍💻 All of my public speaking is available at [https://davidl.fr/talks](https://davidl.fr/talks).
-- 💬 AMA about <a href="https://twitter.com/intent/follow?screen_name=flexbox_" target="_blank">**React, React Native,** and **Life Automation Hacks**</a>.
 
 ## Most Recent Blog Posts
 
@@ -40,12 +39,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="32" height="32"/>
 
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="32" height="32"/>
-  <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="32" height="32"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="32" height="32"/>
-
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/>
 </p>
 
 <em>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients.</em>
