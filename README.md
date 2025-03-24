@@ -1,6 +1,6 @@
 - 🔭 I’m working on **universal native apps for Android, iOS, and the web** with **React Native**, **Expo**, and **Next.js**.
 - 🌱 I’m currently learning **TypeScript**, **GraphQL** and **TensorFlow.js**.
-- 👨‍💻 All of my public speaking is available at [https://davidl.fr/talks](https://davidl.fr/talks).
+- 👨‍💻 All of my public speaking is available at [davidl.fr/talks](https://davidl.fr/talks).
 
 ## Most Recent Blog Posts
 
@@ -33,12 +33,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-plain.svg" alt="gatsby" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="gatsby" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="32" height="32"/>
-
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="netlify" width="32" height="32"/>
 
 </p>
 
