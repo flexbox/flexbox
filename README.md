@@ -1,6 +1,6 @@
-- 🔭 I’m working on **universal native apps for Android, iOS, and the web** with **React Native**, **Expo**, and **Next.js**.
-- 🌱 I’m currently learning **TypeScript**, **GraphQL** and **TensorFlow.js**.
-- 👨‍💻 All of my public speaking is available at [davidl.fr/talks](https://davidl.fr/talks).
+- 🔭 I’m working on **universal native apps for Android, iOS, and the web** with **React Native**, **Expo**, and **Next.js**
+- 🌱 I’m currently learning **TypeScript**, **GraphQL** and **TensorFlow.js**
+- 👨‍💻 All of my public speaking is available at [davidl.fr/talks](https://davidl.fr/talks)
 
 ## Most Recent Blog Posts
 
