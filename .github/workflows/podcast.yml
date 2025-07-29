@@ -1,4 +1,4 @@
-name: Latest Podcast workflow
+name: GitHub Readme Podcast
 on:
   schedule:
     - cron: "0 0 * * MON" # Runs Monday at midnight
