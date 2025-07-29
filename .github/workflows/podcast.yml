@@ -1,7 +1,8 @@
-name: GitHub Readme Podcast
+name: Podcast
 on:
   schedule:
-    - cron: "0 0 * * MON" # Runs Monday at midnight
+    # Runs Monday at midnight
+    - cron: '0 0 * * MON'
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
@@ -17,7 +18,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "PODCAST"
-          feed_list: "https://anchor.fm/s/ffc13f2c/podcast/rss"
+          feed_list: https://anchor.fm/s/ffc13f2c/podcast/rss
           max_post_count: 5
           commit_message: "new podcast from Anchor"
           committer_username: "flexbox"
