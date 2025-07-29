@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest Podcast workflow
 on:
   schedule:
     - cron: "0 0 * * MON" # Runs Monday at midnight
