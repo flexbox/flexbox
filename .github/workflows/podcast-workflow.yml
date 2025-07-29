@@ -1,0 +1,29 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: "0 0 * * MON" # Runs Monday at midnight
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
+
+jobs:
+  update-readme-with-anchor:
+    name: Update this repo's README with latest podcast feed from Anchor
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in Podcast RSS
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "PODCAST"
+          feed_list: "https://anchor.fm/s/ffc13f2c/podcast/rss"
+          max_post_count: 10
+          commit_message: "new podcast from Anchor"
+          committer_username: "flexbox"
+          committer_email: "dleuliette@gmail.com"
+          date_format: 'UTC: yyyy-mm-dd'
+          template: "- [$title]($url) $newline"
+          # Regex for remove HTML TAG:    /(<([^>]+)>)/ig
+          # item_exec: "post.description = post.description.replace('','')"
+          disable_html_encoding: true
