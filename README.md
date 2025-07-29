@@ -18,16 +18,26 @@ Hey! 👋 I'm David Leuliette, the React Native guy. I help companies shipping *
 
 ## Most Recent Podcast
 
-<!-- PODCAST:START -->- [Shine, comment procurer de la joie aux freelances avec une app React Native ? interview de Corentin André](https://podcasters.spotify.com/pod/show/weshipit/episodes/Shine--comment-procurer-de-la-joie-aux-freelances-avec-une-app-React-Native---interview-de-Corentin-Andr-e35svp8) 
-- [App.js Conf 2025 rétrospective de la plus grosse conférence React Native](https://podcasters.spotify.com/pod/show/weshipit/episodes/App-js-Conf-2025-rtrospective-de-la-plus-grosse-confrence-React-Native-e345n72) 
-- [ControlResell automatise la vente Multiplatforme depuis ton téléphone, interview de Nathan Fallet](https://podcasters.spotify.com/pod/show/weshipit/episodes/ControlResell-automatise-la-vente-Multiplatforme-depuis-ton-tlphone--interview-de-Nathan-Fallet-e33okpi) 
-- [Ornikar, une stack React Native pour l'auto-école et l'assurance auto du futur - interview de Romain Spielmann Lead développeur](https://podcasters.spotify.com/pod/show/weshipit/episodes/Ornikar--une-stack-React-Native-pour-lauto-cole-et-lassurance-auto-du-futur---interview-de-Romain-Spielmann-Lead-dveloppeur-e337cvu) 
-- [Mangacollec la meilleure app mobile pour les otakus français codée en rescript et react native avec Freddy Harris](https://podcasters.spotify.com/pod/show/weshipit/episodes/Mangacollec-la-meilleure-app-mobile-pour-les-otakus-franais-code-en-rescript-et-react-native-avec-Freddy-Harris-e32tche) 
-- [ShareLock l’application mobile companion pour sécuriser et assurer ton vélo - interview de Adnan Aita CTO](https://podcasters.spotify.com/pod/show/weshipit/episodes/ShareLock-lapplication-mobile-companion-pour-scuriser-et-assurer-ton-vlo---interview-de-Adnan-Aita-CTO-e32kdud) 
-- [Ilévia, l'application React Native en marque blanche et Pékin Express avec Maxime Thirouin aka MoOx](https://podcasters.spotify.com/pod/show/weshipit/episodes/Ilvia--lapplication-React-Native-en-marque-blanche-et-Pkin-Express-avec-Maxime-Thirouin-aka-MoOx-e325ane) 
-- [Mūcho, des avantages salariés ultra-spécialisés pour les PME avec une application mobile React Native - interview de Lucie Uffoltz](https://podcasters.spotify.com/pod/show/weshipit/episodes/Mcho--des-avantages-salaris-ultra-spcialiss-pour-les-PME-avec-une-application-mobile-React-Native---interview-de-Lucie-Uffoltz-e31li2i) 
-- [Les 10 meilleurs conseils de Callstack pour optimiser son application React Native avec Matthys Ducrocq](https://podcasters.spotify.com/pod/show/weshipit/episodes/Les-10-meilleurs-conseils-de-Callstack-pour-optimiser-son-application-React-Native-avec-Matthys-Ducrocq-e30o83e) 
-- [Swan le SDK de banque pour les applications mobiles en React Native avec Mathieu Acthernoene](https://podcasters.spotify.com/pod/show/weshipit/episodes/Swan-le-SDK-de-banque-pour-les-applications-mobiles-en-React-Native-avec-Mathieu-Acthernoene-e309mpc) 
+<!-- PODCAST:START -->
+ - [Shine, comment procurer de la joie aux freelances avec une app React Native ? interview de Corentin André](https://podcasters.spotify.com/pod/show/weshipit/episodes/Shine--comment-procurer-de-la-joie-aux-freelances-avec-une-app-React-Native---interview-de-Corentin-Andr-e35svp8) 
+
+ - [App.js Conf 2025 rétrospective de la plus grosse conférence React Native](https://podcasters.spotify.com/pod/show/weshipit/episodes/App-js-Conf-2025-rtrospective-de-la-plus-grosse-confrence-React-Native-e345n72) 
+
+ - [ControlResell automatise la vente Multiplatforme depuis ton téléphone, interview de Nathan Fallet](https://podcasters.spotify.com/pod/show/weshipit/episodes/ControlResell-automatise-la-vente-Multiplatforme-depuis-ton-tlphone--interview-de-Nathan-Fallet-e33okpi) 
+
+ - [Ornikar, une stack React Native pour l'auto-école et l'assurance auto du futur - interview de Romain Spielmann Lead développeur](https://podcasters.spotify.com/pod/show/weshipit/episodes/Ornikar--une-stack-React-Native-pour-lauto-cole-et-lassurance-auto-du-futur---interview-de-Romain-Spielmann-Lead-dveloppeur-e337cvu) 
+
+ - [Mangacollec la meilleure app mobile pour les otakus français codée en rescript et react native avec Freddy Harris](https://podcasters.spotify.com/pod/show/weshipit/episodes/Mangacollec-la-meilleure-app-mobile-pour-les-otakus-franais-code-en-rescript-et-react-native-avec-Freddy-Harris-e32tche) 
+
+ - [ShareLock l’application mobile companion pour sécuriser et assurer ton vélo - interview de Adnan Aita CTO](https://podcasters.spotify.com/pod/show/weshipit/episodes/ShareLock-lapplication-mobile-companion-pour-scuriser-et-assurer-ton-vlo---interview-de-Adnan-Aita-CTO-e32kdud) 
+
+ - [Ilévia, l'application React Native en marque blanche et Pékin Express avec Maxime Thirouin aka MoOx](https://podcasters.spotify.com/pod/show/weshipit/episodes/Ilvia--lapplication-React-Native-en-marque-blanche-et-Pkin-Express-avec-Maxime-Thirouin-aka-MoOx-e325ane) 
+
+ - [Mūcho, des avantages salariés ultra-spécialisés pour les PME avec une application mobile React Native - interview de Lucie Uffoltz](https://podcasters.spotify.com/pod/show/weshipit/episodes/Mcho--des-avantages-salaris-ultra-spcialiss-pour-les-PME-avec-une-application-mobile-React-Native---interview-de-Lucie-Uffoltz-e31li2i) 
+
+ - [Les 10 meilleurs conseils de Callstack pour optimiser son application React Native avec Matthys Ducrocq](https://podcasters.spotify.com/pod/show/weshipit/episodes/Les-10-meilleurs-conseils-de-Callstack-pour-optimiser-son-application-React-Native-avec-Matthys-Ducrocq-e30o83e) 
+
+ - [Swan le SDK de banque pour les applications mobiles en React Native avec Mathieu Acthernoene](https://podcasters.spotify.com/pod/show/weshipit/episodes/Swan-le-SDK-de-banque-pour-les-applications-mobiles-en-React-Native-avec-Mathieu-Acthernoene-e309mpc) 
 <!-- PODCAST:END -->
 
 ## Most Recent Videos
