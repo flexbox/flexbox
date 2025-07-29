@@ -3,15 +3,16 @@ Hey! 👋 I'm David Leuliette, the React Native guy. I help companies shipping *
 ## Few things I'm working on
 
 - [weshipit.today](https://github.com/flexbox/weshipit.today/) - our open sourced company website.
+- [Expo Migration](https://weshipit.today/react-native-migration) - we help companies migrate to Expo with confidence.
 - [React Native Bootcamp](https://github.com/flexbox/react-native-bootcamp) - a 1 week bootcamp for learning React Native.
 - [Talks](https://davidl.fr/talks) - All my speaking engagements.
 
 ## How I can help with your React Native app
 
-- Zero to App Store - I build your iOS and Android apps and launch them in the app stores.
-- Private custom workshop - A custom workshop tailored to your team's unique needs and skill level.
-- Monthly advisory retainer - Unlimited access to me via slack, email, and/or video call.
-- 1:1 advisory meeting - A one-hour video call to pick my brain.
+- **Zero to App Store** - I build your iOS and Android apps and launch them in the app stores.
+- **Private custom workshop** - A custom workshop tailored to your team's unique needs and skill level.
+- **Monthly advisory retainer** - Unlimited access to me via slack, email, and/or video call.
+- **1:1 advisory meeting** - A one-hour video call to pick my brain.
 
 💌 I would love to work together! [Book a call](https://cal.com/davidl/weshipit-onboarding) to get in touch.
 
@@ -45,7 +46,7 @@ Hey! 👋 I'm David Leuliette, the React Native guy. I help companies shipping *
 | <img src="https://github-readme-stats.vercel.app/api?username=flexbox&show_icons=false&theme=buefy" alt="flexbox" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexbox&layout=compact&hide=html,SCSS,Java&theme=buefy" alt="flexbox" /> |
 | ------------- | ------------- |
 
-## Follow Me
+## More links
 
 - Follow **<a href="https://twitter.com/intent/follow?screen_name=flexbox_">@flexbox_</a> on Twitter**
 - Follow **<a href="https://bsky.app/profile/flexbox.bsky.social">@flexbox</a> on Bluesky**
