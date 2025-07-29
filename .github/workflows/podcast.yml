@@ -23,7 +23,7 @@ jobs:
           committer_username: "flexbox"
           committer_email: "dleuliette@gmail.com"
           date_format: 'UTC: yyyy-mm-dd'
-          template: "- [$title]($url) $newline"
+          template: "$newline - [$title]($url) $newline"
           # Regex for remove HTML TAG:    /(<([^>]+)>)/ig
           # item_exec: "post.description = post.description.replace('','')"
           disable_html_encoding: true
