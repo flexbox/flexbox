@@ -18,12 +18,10 @@ jobs:
         with:
           comment_tag_name: "PODCAST"
           feed_list: "https://anchor.fm/s/ffc13f2c/podcast/rss"
-          max_post_count: 10
+          max_post_count: 5
           commit_message: "new podcast from Anchor"
           committer_username: "flexbox"
           committer_email: "dleuliette@gmail.com"
           date_format: 'UTC: yyyy-mm-dd'
           template: "$newline- [$title]($url)"
-          # Regex for remove HTML TAG:    /(<([^>]+)>)/ig
-          # item_exec: "post.description = post.description.replace('','')"
           disable_html_encoding: true
