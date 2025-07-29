@@ -1,12 +1,12 @@
 Hey! 👋 I'm David Leuliette, the React Native guy. I help companies shipping **universal native apps for Android, iOS, and the web** with **React Native**, and **Expo**.
 
-## 💻 Here are a few things I'm working on:
+## Few things I'm working on
 
-- [weshipit.today](https://github.com/flexbox/weshipit.today/) - our company website.
+- [weshipit.today](https://github.com/flexbox/weshipit.today/) - our open sourced company website.
 - [React Native Bootcamp](https://github.com/flexbox/react-native-bootcamp) - a 1 week bootcamp for learning React Native.
 - [Talks](https://davidl.fr/talks) - All my speaking engagements.
 
-## 👨‍💻 Here's how I can help with your React Native app:
+## How I can help with your React Native app
 
 - Zero to App Store - I build your iOS and Android apps and launch them in the app stores.
 - Private custom workshop - A custom workshop tailored to your team's unique needs and skill level.
