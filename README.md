@@ -1,4 +1,6 @@
-Hey! 👋 I'm David Leuliette, the React Native guy. I help companies shipping **universal native apps for Android, iOS, and the web** with **React Native**, and **Expo**.
+Hey! 👋 I'm David Leuliette, the French React Native guy.
+
+I help companies ship **universal native apps for Android, iOS, and the web** with **React Native**, and **Expo**.
 
 ### Few things I'm working on
 
