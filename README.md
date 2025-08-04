@@ -21,11 +21,11 @@ I help companies ship **universal native apps for Android, iOS, and the web** wi
 ### Most Recent Podcast
 
 <!-- PODCAST:START -->
+- [Rosk (ex Brigad) l’application mobile des professionnels de la restauration et de la santé — interview de Thibault Malbranche aka Titozzz Lead Mobile Developer](https://podcasters.spotify.com/pod/show/weshipit/episodes/Rosk-ex-Brigad-lapplication-mobile-des-professionnels-de-la-restauration-et-de-la-sant--interview-de-Thibault-Malbranche-aka-Titozzz-Lead-Mobile-Developer-e35vq0o)
 - [Shine, comment procurer de la joie aux freelances avec une app React Native ? interview de Corentin André](https://podcasters.spotify.com/pod/show/weshipit/episodes/Shine--comment-procurer-de-la-joie-aux-freelances-avec-une-app-React-Native---interview-de-Corentin-Andr-e35svp8)
 - [App.js Conf 2025 rétrospective de la plus grosse conférence React Native](https://podcasters.spotify.com/pod/show/weshipit/episodes/App-js-Conf-2025-rtrospective-de-la-plus-grosse-confrence-React-Native-e345n72)
 - [ControlResell automatise la vente Multiplatforme depuis ton téléphone, interview de Nathan Fallet](https://podcasters.spotify.com/pod/show/weshipit/episodes/ControlResell-automatise-la-vente-Multiplatforme-depuis-ton-tlphone--interview-de-Nathan-Fallet-e33okpi)
-- [Ornikar, une stack React Native pour l'auto-école et l'assurance auto du futur - interview de Romain Spielmann Lead développeur](https://podcasters.spotify.com/pod/show/weshipit/episodes/Ornikar--une-stack-React-Native-pour-lauto-cole-et-lassurance-auto-du-futur---interview-de-Romain-Spielmann-Lead-dveloppeur-e337cvu)
-- [Mangacollec la meilleure app mobile pour les otakus français codée en rescript et react native avec Freddy Harris](https://podcasters.spotify.com/pod/show/weshipit/episodes/Mangacollec-la-meilleure-app-mobile-pour-les-otakus-franais-code-en-rescript-et-react-native-avec-Freddy-Harris-e32tche)<!-- PODCAST:END -->
+- [Ornikar, une stack React Native pour l'auto-école et l'assurance auto du futur - interview de Romain Spielmann Lead développeur](https://podcasters.spotify.com/pod/show/weshipit/episodes/Ornikar--une-stack-React-Native-pour-lauto-cole-et-lassurance-auto-du-futur---interview-de-Romain-Spielmann-Lead-dveloppeur-e337cvu)<!-- PODCAST:END -->
 
 ### Most Recent Videos
 
