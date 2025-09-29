@@ -21,11 +21,11 @@ I help companies ship **universal native apps for Android, iOS, and the web** wi
 ### Most Recent Podcast
 
 <!-- PODCAST:START -->
+- [Osly Solutions l'app React Native qui transforme ton smartphone en badge d’accès sécurisé — interview de Armand Petit](https://podcasters.spotify.com/pod/show/weshipit/episodes/Osly-Solutions-lapp-React-Native-qui-transforme-ton-smartphone-en-badge-daccs-scuris--interview-de-Armand-Petit-e38lvdv)
 - [KicksFolio la collection de sneakers qui utilise Supabase et React Native — interview de Rémy Cassagne](https://podcasters.spotify.com/pod/show/weshipit/episodes/KicksFolio-la-collection-de-sneakers-qui-utilise-Supabase-et-React-Native--interview-de-Rmy-Cassagne-e388u9d)
 - [Odisei Music, le saxophone numérique qui se joue partout avec son téléphone grâce à React Native — entretien avec Kim Chouard, CTO](https://podcasters.spotify.com/pod/show/weshipit/episodes/Odisei-Music--le-saxophone-numrique-qui-se-joue-partout-avec-son-tlphone-grce--React-Native--entretien-avec-Kim-Chouard--CTO-e360jo1)
 - [Rosk (ex Brigad) l’application mobile des professionnels de la restauration et de la santé — interview de Thibault Malbranche aka Titozzz Lead Mobile Developer](https://podcasters.spotify.com/pod/show/weshipit/episodes/Rosk-ex-Brigad-lapplication-mobile-des-professionnels-de-la-restauration-et-de-la-sant--interview-de-Thibault-Malbranche-aka-Titozzz-Lead-Mobile-Developer-e35vq0o)
-- [Shine, comment procurer de la joie aux freelances avec une app React Native ? interview de Corentin André](https://podcasters.spotify.com/pod/show/weshipit/episodes/Shine--comment-procurer-de-la-joie-aux-freelances-avec-une-app-React-Native---interview-de-Corentin-Andr-e35svp8)
-- [App.js Conf 2025 rétrospective de la plus grosse conférence React Native](https://podcasters.spotify.com/pod/show/weshipit/episodes/App-js-Conf-2025-rtrospective-de-la-plus-grosse-confrence-React-Native-e345n72)<!-- PODCAST:END -->
+- [Shine, comment procurer de la joie aux freelances avec une app React Native ? interview de Corentin André](https://podcasters.spotify.com/pod/show/weshipit/episodes/Shine--comment-procurer-de-la-joie-aux-freelances-avec-une-app-React-Native---interview-de-Corentin-Andr-e35svp8)<!-- PODCAST:END -->
 
 ### Most Recent Videos
 
