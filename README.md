@@ -21,11 +21,11 @@ I help companies ship **universal native apps for Android, iOS, and the web** wi
 ### Most Recent Podcast
 
 <!-- PODCAST:START -->
+- [Upstream : transformer le chaos de Gmail pour discuter et travailler en équipe efficacement - interview de Gabriel Hofman Développeur React Native Freelance](https://podcasters.spotify.com/pod/show/weshipit/episodes/Upstream--transformer-le-chaos-de-Gmail-pour-discuter-et-travailler-en-quipe-efficacement---interview-de-Gabriel-Hofman-Dveloppeur-React-Native-Freelance-e3b84pc)
 - [KidGo l'application React Native des darons qui n'ont pas le temps - interview de David Leuliette](https://podcasters.spotify.com/pod/show/weshipit/episodes/KidGo-lapplication-React-Native-des-darons-qui-nont-pas-le-temps---interview-de-David-Leuliette-e3ajlqs)
 - [SaxoTools : de la mécanique des fluides au développement mobile avec React Native — interview de Rémy Ntshaykolo](https://podcasters.spotify.com/pod/show/weshipit/episodes/SaxoTools--de-la-mcanique-des-fluides-au-dveloppement-mobile-avec-React-Native--interview-de-Rmy-Ntshaykolo-e39fuqc)
 - [Osly Solutions l'app React Native qui transforme ton smartphone en badge d’accès sécurisé — interview de Armand Petit](https://podcasters.spotify.com/pod/show/weshipit/episodes/Osly-Solutions-lapp-React-Native-qui-transforme-ton-smartphone-en-badge-daccs-scuris--interview-de-Armand-Petit-e38lvdv)
-- [KicksFolio la collection de sneakers qui utilise Supabase et React Native — interview de Rémy Cassagne](https://podcasters.spotify.com/pod/show/weshipit/episodes/KicksFolio-la-collection-de-sneakers-qui-utilise-Supabase-et-React-Native--interview-de-Rmy-Cassagne-e388u9d)
-- [Odisei Music, le saxophone numérique qui se joue partout avec son téléphone grâce à React Native — entretien avec Kim Chouard, CTO](https://podcasters.spotify.com/pod/show/weshipit/episodes/Odisei-Music--le-saxophone-numrique-qui-se-joue-partout-avec-son-tlphone-grce--React-Native--entretien-avec-Kim-Chouard--CTO-e360jo1)<!-- PODCAST:END -->
+- [KicksFolio la collection de sneakers qui utilise Supabase et React Native — interview de Rémy Cassagne](https://podcasters.spotify.com/pod/show/weshipit/episodes/KicksFolio-la-collection-de-sneakers-qui-utilise-Supabase-et-React-Native--interview-de-Rmy-Cassagne-e388u9d)<!-- PODCAST:END -->
 
 ### Most Recent Videos
 
