@@ -21,11 +21,11 @@ I help companies ship **universal native apps for Android, iOS, and the web** wi
 ### Most Recent Podcast
 
 <!-- PODCAST:START -->
+- [ASO, Apple Ads et Growth Mobile : Le guide pour votre app React Native avec avec Julie Tonna](https://podcasters.spotify.com/pod/show/weshipit/episodes/ASO--Apple-Ads-et-Growth-Mobile--Le-guide-pour-votre-app-React-Native-avec-avec-Julie-Tonna-e3bi4nb)
 - [Upstream : transformer le chaos de Gmail pour discuter et travailler en équipe efficacement - interview de Gabriel Hofman Développeur React Native Freelance](https://podcasters.spotify.com/pod/show/weshipit/episodes/Upstream--transformer-le-chaos-de-Gmail-pour-discuter-et-travailler-en-quipe-efficacement---interview-de-Gabriel-Hofman-Dveloppeur-React-Native-Freelance-e3b84pc)
 - [KidGo l'application React Native des darons qui n'ont pas le temps - interview de David Leuliette](https://podcasters.spotify.com/pod/show/weshipit/episodes/KidGo-lapplication-React-Native-des-darons-qui-nont-pas-le-temps---interview-de-David-Leuliette-e3ajlqs)
 - [SaxoTools : de la mécanique des fluides au développement mobile avec React Native — interview de Rémy Ntshaykolo](https://podcasters.spotify.com/pod/show/weshipit/episodes/SaxoTools--de-la-mcanique-des-fluides-au-dveloppement-mobile-avec-React-Native--interview-de-Rmy-Ntshaykolo-e39fuqc)
-- [Osly Solutions l'app React Native qui transforme ton smartphone en badge d’accès sécurisé — interview de Armand Petit](https://podcasters.spotify.com/pod/show/weshipit/episodes/Osly-Solutions-lapp-React-Native-qui-transforme-ton-smartphone-en-badge-daccs-scuris--interview-de-Armand-Petit-e38lvdv)
-- [KicksFolio la collection de sneakers qui utilise Supabase et React Native — interview de Rémy Cassagne](https://podcasters.spotify.com/pod/show/weshipit/episodes/KicksFolio-la-collection-de-sneakers-qui-utilise-Supabase-et-React-Native--interview-de-Rmy-Cassagne-e388u9d)<!-- PODCAST:END -->
+- [Osly Solutions l'app React Native qui transforme ton smartphone en badge d’accès sécurisé — interview de Armand Petit](https://podcasters.spotify.com/pod/show/weshipit/episodes/Osly-Solutions-lapp-React-Native-qui-transforme-ton-smartphone-en-badge-daccs-scuris--interview-de-Armand-Petit-e38lvdv)<!-- PODCAST:END -->
 
 ### Most Recent Videos
 
