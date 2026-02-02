@@ -21,11 +21,11 @@ I help companies ship **universal native apps for Android, iOS, and the web** wi
 ### Most Recent Podcast
 
 <!-- PODCAST:START -->
+- [De Mediapart en Titanium à Altered en React Native, 15+ ans de Cross Platform avec Thibault Lenclos](https://podcasters.spotify.com/pod/show/weshipit/episodes/De-Mediapart-en-Titanium--Altered-en-React-Native--15-ans-de-Cross-Platform-avec-Thibault-Lenclos-e3dutrd)
 - [Du GPU à React Native : Dissection d'une stack graphique avec William Candillon](https://podcasters.spotify.com/pod/show/weshipit/episodes/Du-GPU--React-Native--Dissection-dune-stack-graphique-avec-William-Candillon-e3duqni)
 - [L'art de la veille tech : Les secrets de la newsletter React | React Native de Sebastien Lorber](https://podcasters.spotify.com/pod/show/weshipit/episodes/Lart-de-la-veille-tech--Les-secrets-de-la-newsletter-React--React-Native-de-Sebastien-Lorber-e3c2j28)
 - [ASO, Apple Ads et Growth Mobile : Le guide pour votre app React Native avec avec Julie Tonna](https://podcasters.spotify.com/pod/show/weshipit/episodes/ASO--Apple-Ads-et-Growth-Mobile--Le-guide-pour-votre-app-React-Native-avec-avec-Julie-Tonna-e3bi4nb)
-- [Upstream : transformer le chaos de Gmail pour discuter et travailler en équipe efficacement - interview de Gabriel Hofman Développeur React Native Freelance](https://podcasters.spotify.com/pod/show/weshipit/episodes/Upstream--transformer-le-chaos-de-Gmail-pour-discuter-et-travailler-en-quipe-efficacement---interview-de-Gabriel-Hofman-Dveloppeur-React-Native-Freelance-e3b84pc)
-- [KidGo l'application React Native des darons qui n'ont pas le temps - interview de David Leuliette](https://podcasters.spotify.com/pod/show/weshipit/episodes/KidGo-lapplication-React-Native-des-darons-qui-nont-pas-le-temps---interview-de-David-Leuliette-e3ajlqs)<!-- PODCAST:END -->
+- [Upstream : transformer le chaos de Gmail pour discuter et travailler en équipe efficacement - interview de Gabriel Hofman Développeur React Native Freelance](https://podcasters.spotify.com/pod/show/weshipit/episodes/Upstream--transformer-le-chaos-de-Gmail-pour-discuter-et-travailler-en-quipe-efficacement---interview-de-Gabriel-Hofman-Dveloppeur-React-Native-Freelance-e3b84pc)<!-- PODCAST:END -->
 
 ### Most Recent Videos
 
