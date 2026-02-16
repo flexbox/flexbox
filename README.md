@@ -21,11 +21,11 @@ I help companies ship **universal native apps for Android, iOS, and the web** wi
 ### Most Recent Podcast
 
 <!-- PODCAST:START -->
+- [Quel est le marché de l'emploi pour les développeurs React Native en 2026 ? Avec Greg Lhotellier](https://podcasters.spotify.com/pod/show/weshipit/episodes/Quel-est-le-march-de-lemploi-pour-les-dveloppeurs-React-Native-en-2026---Avec-Greg-Lhotellier-e3elrme)
 - [Parlons thune : React Native dans la fintech française avec Jeremy Magrin - Epsor](https://podcasters.spotify.com/pod/show/weshipit/episodes/Parlons-thune--React-Native-dans-la-fintech-franaise-avec-Jeremy-Magrin---Epsor-e3ebkc4)
 - [De Mediapart en Titanium à Altered en React Native, 15+ ans de Cross Platform avec Thibault Lenclos](https://podcasters.spotify.com/pod/show/weshipit/episodes/De-Mediapart-en-Titanium--Altered-en-React-Native--15-ans-de-Cross-Platform-avec-Thibault-Lenclos-e3dutrd)
 - [Du GPU à React Native : Dissection d'une stack graphique avec William Candillon](https://podcasters.spotify.com/pod/show/weshipit/episodes/Du-GPU--React-Native--Dissection-dune-stack-graphique-avec-William-Candillon-e3duqni)
-- [L'art de la veille tech : Les secrets de la newsletter React | React Native de Sebastien Lorber](https://podcasters.spotify.com/pod/show/weshipit/episodes/Lart-de-la-veille-tech--Les-secrets-de-la-newsletter-React--React-Native-de-Sebastien-Lorber-e3c2j28)
-- [ASO, Apple Ads et Growth Mobile : Le guide pour votre app React Native avec avec Julie Tonna](https://podcasters.spotify.com/pod/show/weshipit/episodes/ASO--Apple-Ads-et-Growth-Mobile--Le-guide-pour-votre-app-React-Native-avec-avec-Julie-Tonna-e3bi4nb)<!-- PODCAST:END -->
+- [L'art de la veille tech : Les secrets de la newsletter React | React Native de Sebastien Lorber](https://podcasters.spotify.com/pod/show/weshipit/episodes/Lart-de-la-veille-tech--Les-secrets-de-la-newsletter-React--React-Native-de-Sebastien-Lorber-e3c2j28)<!-- PODCAST:END -->
 
 ### Most Recent Videos
 
