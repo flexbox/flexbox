@@ -38,11 +38,6 @@ I help companies ship **universal native apps for Android, iOS, and the web** wi
 [![React Native - la technologie future proof 📡](https://ytcards.demolab.com/?id=AtvbEK1ZaFE&title=React+Native+-+la+technologie+future+proof+%F0%9F%93%A1&lang=en&timestamp=1770033619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "React Native - la technologie future proof 📡")](https://www.youtube.com/shorts/AtvbEK1ZaFE)
 <!-- END YOUTUBE-CARDS -->
 
-### Statistics
-
-| <img src="https://github-readme-stats.vercel.app/api?username=flexbox&show_icons=false&theme=buefy" alt="flexbox" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexbox&layout=compact&hide=html,SCSS,Java&theme=buefy" alt="flexbox" /> |
-| ------------- | ------------- |
-
 ### More links
 
 - Follow **<a href="https://twitter.com/intent/follow?screen_name=flexbox_">@flexbox_</a> on Twitter**
