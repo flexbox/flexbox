@@ -21,11 +21,11 @@ I help companies ship **universal native apps for Android, iOS, and the web** wi
 ### Most Recent Podcast
 
 <!-- PODCAST:START -->
+- [State of React Native 2025 : 1 500 devs ont voté, voilà ce que ça change pour ton app](https://podcasters.spotify.com/pod/show/weshipit/episodes/State-of-React-Native-2025--1-500-devs-ont-vot--voil-ce-que-a-change-pour-ton-app-e3gc5gk)
 - [Explorer la programmation fonctionnelle avec Matthias Le Brun : perspectives et innovations](https://podcasters.spotify.com/pod/show/weshipit/episodes/Explorer-la-programmation-fonctionnelle-avec-Matthias-Le-Brun--perspectives-et-innovations-e3et660)
 - [Quel est le marché de l'emploi pour les développeurs React Native en 2026 ? Avec Greg Lhotellier](https://podcasters.spotify.com/pod/show/weshipit/episodes/Quel-est-le-march-de-lemploi-pour-les-dveloppeurs-React-Native-en-2026---Avec-Greg-Lhotellier-e3elrme)
 - [Parlons thune : React Native dans la fintech française avec Jeremy Magrin - Epsor](https://podcasters.spotify.com/pod/show/weshipit/episodes/Parlons-thune--React-Native-dans-la-fintech-franaise-avec-Jeremy-Magrin---Epsor-e3ebkc4)
-- [De Mediapart en Titanium à Altered en React Native, 15+ ans de Cross Platform avec Thibault Lenclos](https://podcasters.spotify.com/pod/show/weshipit/episodes/De-Mediapart-en-Titanium--Altered-en-React-Native--15-ans-de-Cross-Platform-avec-Thibault-Lenclos-e3dutrd)
-- [Du GPU à React Native : Dissection d'une stack graphique avec William Candillon](https://podcasters.spotify.com/pod/show/weshipit/episodes/Du-GPU--React-Native--Dissection-dune-stack-graphique-avec-William-Candillon-e3duqni)<!-- PODCAST:END -->
+- [De Mediapart en Titanium à Altered en React Native, 15+ ans de Cross Platform avec Thibault Lenclos](https://podcasters.spotify.com/pod/show/weshipit/episodes/De-Mediapart-en-Titanium--Altered-en-React-Native--15-ans-de-Cross-Platform-avec-Thibault-Lenclos-e3dutrd)<!-- PODCAST:END -->
 
 ### Most Recent Videos
 
