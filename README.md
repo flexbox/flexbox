@@ -21,11 +21,11 @@ I help companies ship **universal native apps for Android, iOS, and the web** wi
 ### Most Recent Podcast
 
 <!-- PODCAST:START -->
+- [De Tech Lead à indie hacker : shipper des SaaS réels en solo avec Claude Code et Flutter](https://podcasters.spotify.com/pod/show/weshipit/episodes/De-Tech-Lead--indie-hacker--shipper-des-SaaS-rels-en-solo-avec-Claude-Code-et-Flutter-e3hq12q)
 - [Presque 10 ans de React Native en prod — retours sans filtre avec Xavier Carpentier](https://podcasters.spotify.com/pod/show/weshipit/episodes/Presque-10-ans-de-React-Native-en-prod--retours-sans-filtre-avec-Xavier-Carpentier-e3gscag)
 - [State of React Native 2025 : 1 500 devs ont voté, voilà ce que ça change pour ton app](https://podcasters.spotify.com/pod/show/weshipit/episodes/State-of-React-Native-2025--1-500-devs-ont-vot--voil-ce-que-a-change-pour-ton-app-e3gc5gk)
 - [Explorer la programmation fonctionnelle avec Matthias Le Brun : perspectives et innovations](https://podcasters.spotify.com/pod/show/weshipit/episodes/Explorer-la-programmation-fonctionnelle-avec-Matthias-Le-Brun--perspectives-et-innovations-e3et660)
-- [Quel est le marché de l'emploi pour les développeurs React Native en 2026 ? Avec Greg Lhotellier](https://podcasters.spotify.com/pod/show/weshipit/episodes/Quel-est-le-march-de-lemploi-pour-les-dveloppeurs-React-Native-en-2026---Avec-Greg-Lhotellier-e3elrme)
-- [Parlons thune : React Native dans la fintech française avec Jeremy Magrin - Epsor](https://podcasters.spotify.com/pod/show/weshipit/episodes/Parlons-thune--React-Native-dans-la-fintech-franaise-avec-Jeremy-Magrin---Epsor-e3ebkc4)<!-- PODCAST:END -->
+- [Quel est le marché de l'emploi pour les développeurs React Native en 2026 ? Avec Greg Lhotellier](https://podcasters.spotify.com/pod/show/weshipit/episodes/Quel-est-le-march-de-lemploi-pour-les-dveloppeurs-React-Native-en-2026---Avec-Greg-Lhotellier-e3elrme)<!-- PODCAST:END -->
 
 ### Most Recent Videos
 
