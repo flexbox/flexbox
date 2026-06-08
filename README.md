@@ -21,11 +21,11 @@ I help companies ship **universal native apps for Android, iOS, and the web** wi
 ### Most Recent Podcast
 
 <!-- PODCAST:START -->
+- [Du dev salarié à l'indie maker : comment j'ai shippé TikTools seul avec React Native](https://podcasters.spotify.com/pod/show/weshipit/episodes/Du-dev-salari--lindie-maker--comment-jai-shipp-TikTools-seul-avec-React-Native-e3jof43)
 - [Les 5 erreurs coûteuses des CTO mobile](https://podcasters.spotify.com/pod/show/weshipit/episodes/Les-5-erreurs-coteuses-des-CTO-mobile-e3jib13)
 - [Comment recruter des devs React Native seniors avec Carla Rainaud](https://podcasters.spotify.com/pod/show/weshipit/episodes/Comment-recruter-des-devs-React-Native-seniors-avec-Carla-Rainaud-e3ji96i)
 - [De Tech Lead à indie hacker : shipper des SaaS réels en solo avec Claude Code et Flutter](https://podcasters.spotify.com/pod/show/weshipit/episodes/De-Tech-Lead--indie-hacker--shipper-des-SaaS-rels-en-solo-avec-Claude-Code-et-Flutter-e3hq12q)
-- [Presque 10 ans de React Native en prod — retours sans filtre avec Xavier Carpentier](https://podcasters.spotify.com/pod/show/weshipit/episodes/Presque-10-ans-de-React-Native-en-prod--retours-sans-filtre-avec-Xavier-Carpentier-e3gscag)
-- [State of React Native 2025 : 1 500 devs ont voté, voilà ce que ça change pour ton app](https://podcasters.spotify.com/pod/show/weshipit/episodes/State-of-React-Native-2025--1-500-devs-ont-vot--voil-ce-que-a-change-pour-ton-app-e3gc5gk)<!-- PODCAST:END -->
+- [Presque 10 ans de React Native en prod — retours sans filtre avec Xavier Carpentier](https://podcasters.spotify.com/pod/show/weshipit/episodes/Presque-10-ans-de-React-Native-en-prod--retours-sans-filtre-avec-Xavier-Carpentier-e3gscag)<!-- PODCAST:END -->
 
 ### Most Recent Videos
 
