@@ -21,11 +21,11 @@ I help companies ship **universal native apps for Android, iOS, and the web** wi
 ### Most Recent Podcast
 
 <!-- PODCAST:START -->
+- [Commissions d'Apple et de Google, DMA et monétisation in-app en 2026 avec RevenueCat, Tarek M. Ben Lechhab nous explique tout !](https://podcasters.spotify.com/pod/show/weshipit/episodes/Commissions-dApple-et-de-Google--DMA-et-montisation-in-app-en-2026-avec-RevenueCat--Tarek-M--Ben-Lechhab-nous-explique-tout-e3kd5kp)
 - [Du dev salarié à l'indie maker : comment j'ai shippé TikTools seul avec React Native](https://podcasters.spotify.com/pod/show/weshipit/episodes/Du-dev-salari--lindie-maker--comment-jai-shipp-TikTools-seul-avec-React-Native-e3jof43)
 - [Les 5 erreurs coûteuses des CTO mobile](https://podcasters.spotify.com/pod/show/weshipit/episodes/Les-5-erreurs-coteuses-des-CTO-mobile-e3jib13)
 - [Comment recruter des devs React Native seniors avec Carla Rainaud](https://podcasters.spotify.com/pod/show/weshipit/episodes/Comment-recruter-des-devs-React-Native-seniors-avec-Carla-Rainaud-e3ji96i)
-- [De Tech Lead à indie hacker : shipper des SaaS réels en solo avec Claude Code et Flutter](https://podcasters.spotify.com/pod/show/weshipit/episodes/De-Tech-Lead--indie-hacker--shipper-des-SaaS-rels-en-solo-avec-Claude-Code-et-Flutter-e3hq12q)
-- [Presque 10 ans de React Native en prod — retours sans filtre avec Xavier Carpentier](https://podcasters.spotify.com/pod/show/weshipit/episodes/Presque-10-ans-de-React-Native-en-prod--retours-sans-filtre-avec-Xavier-Carpentier-e3gscag)<!-- PODCAST:END -->
+- [De Tech Lead à indie hacker : shipper des SaaS réels en solo avec Claude Code et Flutter](https://podcasters.spotify.com/pod/show/weshipit/episodes/De-Tech-Lead--indie-hacker--shipper-des-SaaS-rels-en-solo-avec-Claude-Code-et-Flutter-e3hq12q)<!-- PODCAST:END -->
 
 ### Most Recent Videos
 
