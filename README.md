@@ -21,11 +21,11 @@ I help companies ship **universal native apps for Android, iOS, and the web** wi
 ### Most Recent Podcast
 
 <!-- PODCAST:START -->
+- [Roadmap mobile 2027 : agents IA, Live Activities, React Native web — débrief React Native Connection avec Matthys Ducrocq, Ludwig Vantours et Jérémy Magrin](https://podcasters.spotify.com/pod/show/weshipit/episodes/Roadmap-mobile-2027--agents-IA--Live-Activities--React-Native-web--dbrief-React-Native-Connection-avec-Matthys-Ducrocq--Ludwig-Vantours-et-Jrmy-Magrin-e3ql4vo)
 - [Live Update OTA vs Refus App Store : 6 cas réels, 32 jours perdus avec Martin Donadieu (Capgo)](https://podcasters.spotify.com/pod/show/weshipit/episodes/Live-Update-OTA-vs-Refus-App-Store--6-cas-rels--32-jours-perdus-avec-Martin-Donadieu-Capgo-e3pqcok)
 - [Ton design system mobile te coûte 100 K€ par an — et ça n'apparaît sur aucune ligne budgétaire — Zach Nugent](https://podcasters.spotify.com/pod/show/weshipit/episodes/Ton-design-system-mobile-te-cote-100-K-par-an--et-a-napparat-sur-aucune-ligne-budgtaire--Zach-Nugent-e3p1con)
 - [React Native ou Flutter en 2026 ? Pourquoi son créateur pense que ton choix de stack ne change presque rien - Christopher Chedeau (vjeux)](https://podcasters.spotify.com/pod/show/weshipit/episodes/React-Native-ou-Flutter-en-2026---Pourquoi-son-crateur-pense-que-ton-choix-de-stack-ne-change-presque-rien---Christopher-Chedeau-vjeux-e3o5gde)
-- [Scaler une app mobile en hypercroissance : Doctolib (50M users) avec Louis Zawadzki](https://podcasters.spotify.com/pod/show/weshipit/episodes/Scaler-une-app-mobile-en-hypercroissance--Doctolib-50M-users-avec-Louis-Zawadzki-e3ninq8)
-- [Impact de l’IA sur React Native, React Native sans CocoaPods, Reanimated 4 et React Native Worklets, Expo Desktop sur macOS et Windows, App.js 2026](https://podcasters.spotify.com/pod/show/weshipit/episodes/Impact-de-lIA-sur-React-Native--React-Native-sans-CocoaPods--Reanimated-4-et-React-Native-Worklets--Expo-Desktop-sur-macOS-et-Windows--App-js-2026-e3neif4)<!-- PODCAST:END -->
+- [Scaler une app mobile en hypercroissance : Doctolib (50M users) avec Louis Zawadzki](https://podcasters.spotify.com/pod/show/weshipit/episodes/Scaler-une-app-mobile-en-hypercroissance--Doctolib-50M-users-avec-Louis-Zawadzki-e3ninq8)<!-- PODCAST:END -->
 
 ### Most Recent Videos
 
